@@ -1,10 +1,10 @@
-##* 📌 Project Name
+## 📌 Project Name
 
 **Digital Tools Platform**
 
 ---
 
-## 🧾 Project Description
+##* 🧾 Project Description
 
 This is a responsive digital tools marketplace built with React where users can explore different digital products and add them to a cart. The project focuses on clean UI, smooth interaction, and practical e-commerce functionality like cart management, product toggling, and checkout behavior.
 
