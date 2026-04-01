@@ -12,7 +12,7 @@ Users can switch between product view and cart view, add/remove items, and see r
 
 ---
 
-##* 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * React.js
 * Tailwind CSS
