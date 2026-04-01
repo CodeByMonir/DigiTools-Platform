@@ -9,7 +9,7 @@ const Footer = () => {
             <footer className="p-10 bg-neutral">
                 <div className='footer lg:footer-horizontal text-neutral-content flex justify-around'>
                     <aside>
-                    <img src="public/digitools.png" alt="" />
+                    <img src="digitools.png" alt="" />
                     <p>
                         Premium digital tools for creators,<br/>professionals, and businesses. Work smarter<br/>with our suite of powerful tools.
                     </p>

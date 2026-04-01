@@ -7,7 +7,7 @@ const NavBar = ({cartCount}) => {
         <div>
             <div className="navbar bg-base-100 shadow-sm flex justify-around">
                 <div className="">
-                    <a className="btn btn-ghost text-xl"><img src="public/digitools.png" alt="" /></a>
+                    <a className="btn btn-ghost text-xl"><img src="digitools.png" alt="" /></a>
                 </div>
                 <ul className="md:flex justify-between gap-8 font-semibold text-[#101727] hidden">
                     <li>Products</li>

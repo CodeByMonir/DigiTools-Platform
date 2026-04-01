@@ -16,7 +16,7 @@ const GetSec = () => {
 
                         <div className='flex items-center flex-col space-y-4 mb-16 text-center'>
                             <div className='h-20 w-20 border border-white rounded-full overflow-hidden bg-[#4F39F640] flex items-center justify-center'>
-                                <img src="/public/user.png" alt="" />
+                                <img src="user.png" alt="" />
                             </div>
                             <h1 className='font-bold text-[24px] text-[#101727]'>Create Account</h1>
                             <p className='text-[#627382] leading-5'>Sign up for free in seconds. No credit card required to get started.</p>
@@ -30,7 +30,7 @@ const GetSec = () => {
 
                         <div className='flex items-center flex-col space-y-4 mb-16 text-center'>
                             <div className='h-20 w-20 border border-white rounded-full overflow-hidden bg-[#4F39F640] flex items-center justify-center'>
-                                <img src="/public/package.png" alt="" />
+                                <img src="package.png" alt="" />
                             </div>
                             <h1 className='font-bold text-[24px] text-[#101727]'>Choose Products</h1>
                             <p className='text-[#627382] leading-5'>Browse our catalog and select the tools that fit your needs.</p>
@@ -44,7 +44,7 @@ const GetSec = () => {
 
                         <div className='flex items-center flex-col space-y-4 mb-16 text-center'>
                             <div className='h-20 w-20 border border-white rounded-full overflow-hidden bg-[#4F39F640] flex items-center justify-center'>
-                                <img src="/public/rocket.png" alt="" />
+                                <img src="rocket.png" alt="" />
                             </div>
                             <h1 className='font-bold text-[24px] text-[#101727]'>Start Creating</h1>
                             <p className='text-[#627382] leading-5'>Download and start using your premium tools immediately.</p>

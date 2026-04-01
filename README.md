@@ -59,12 +59,12 @@ Users can switch between product view and cart view, add/remove items, and see r
 
 ## 📂 GitHub Repository
 
-👉 *[Add your repo link here]*
+👉 *[\[Add your repo link here\]](https://github.com/CodeByMonir/DigiTools-Platform)*
 
 ---
 
 ## 🌐 Live Site
 
-👉 *[Add your live site link here]*
+👉 *https://digitools-platform-codebymonir.netlify.app/*
 
 ---
