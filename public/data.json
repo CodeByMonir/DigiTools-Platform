@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "name": "Free",
+    "description": "Kickstart your career with our completely free plan. Perfect for students, fresh graduates, and beginners who want a clean, professional resume without spending anything. Access essential tools to create your first resume quickly and hassle-free.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "Free",
+    "tagType": "New",
+    "features": [
+      "50+ modern templates",
+      "Basic ATS optimization",
+      "PDF export only",
+      "Limited storage",
+      "Community support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473369.png"
+  },
+  {
+    "id": 2,
+    "name": "Starter",
+    "description": "Ideal for freelancers and early-career professionals who need more options and better presentation. Unlock a larger collection of templates and essential export formats to help your resume stand out from the crowd.",
+    "price": 4.99,
+    "period": "monthly",
+    "tag": "Starter",
+    "tagType": "New",
+    "features": [
+      "100+ premium templates",
+      "ATS optimization score",
+      "PDF & Word export",
+      "Basic cover letter builder",
+      "Email customer support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473376.png"
+  },
+  {
+    "id": 3,
+    "name": "Pro",
+    "description": "Our most popular choice for serious job seekers and professionals. Get advanced tools to build highly optimized, recruiter-friendly resumes that successfully pass Applicant Tracking Systems (ATS) and grab attention.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "Popular",
+    "features": [
+      "200+ designer templates",
+      "Advanced ATS optimization",
+      "Cover letter builder",
+      "Priority email support",
+      "Custom sections and layouts",
+      "Resume analytics"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473382.png"
+  },
+  {
+    "id": 4,
+    "name": "Premium",
+    "description": "Experience the full power of AI to create standout resumes faster. Designed for ambitious job seekers who want premium quality, smart suggestions, and every possible edge in today's competitive job market.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "Best seller",
+    "features": [
+      "Unlimited templates",
+      "AI content suggestions and rewriting",
+      "Advanced ATS scanning and tips",
+      "Multiple resume versions",
+      "Interview preparation toolkit",
+      "24/7 priority support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473391.png"
+  },
+  {
+    "id": 5,
+    "name": "Team",
+    "description": "Perfect for small teams, recruitment agencies, and companies that need to handle multiple resumes efficiently. Collaborate easily, maintain consistent branding, and streamline resume creation across your organization.",
+    "price": 49,
+    "period": "monthly",
+    "tag": "Team",
+    "tagType": "Popular",
+    "features": [
+      "Everything in Premium plan",
+      "Team collaboration tools",
+      "Admin dashboard and controls",
+      "Shared company templates",
+      "Bulk resume generation and export",
+      "Team activity analytics"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473355.png"
+  },
+  {
+    "id": 6,
+    "name": "Yearly Pro",
+    "description": "Get all Pro plan features with big savings through annual billing. Great for users serious about long-term career development who want maximum value and uninterrupted access with extra benefits.",
+    "price": 89,
+    "period": "yearly",
+    "tag": "Save 40%",
+    "tagType": "Popular",
+    "features": [
+      "All features from Pro plan",
+      "Billed annually (save 40%)",
+      "2 months completely free",
+      "Early access to new templates",
+      "Extended priority support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473364.png"
+  },
+  {
+    "id": 7,
+    "name": "Lifetime",
+    "description": "Make a one-time payment and enjoy unlimited access forever. The smartest choice for professionals who want complete freedom from subscriptions while still receiving all future updates and new features.",
+    "price": 199,
+    "period": "one-time",
+    "tag": "Best Value",
+    "tagType": "New",
+    "features": [
+      "All Premium features included",
+      "Lifetime access and updates",
+      "All future tools and templates",
+      "No recurring subscription fees",
+      "VIP support channel"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473348.png"
+  },
+  {
+    "id": 8,
+    "name": "Enterprise",
+    "description": "Custom solutions built for large organizations, enterprises, and educational institutions. Enjoy tailored integrations, dedicated support, top-tier security, and scalable features designed to match your organization's specific needs.",
+    "price": 299,
+    "period": "monthly",
+    "tag": "Enterprise",
+    "tagType": "Popular",
+    "features": [
+      "Unlimited users and features",
+      "Custom AI model training",
+      "SSO, SAML & advanced security",
+      "Dedicated account manager",
+      "Service Level Agreement (SLA)",
+      "Custom branding and white-label"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473397.png"
+  },
+  {
+    "id": 9,
+    "name": "Student",
+    "description": "Specially designed for current students and recent graduates on a tight budget. Get access to professional resume tools at a significant discount while enjoying advanced features to help you secure your first job or internship.",
+    "price": 2.99,
+    "period": "monthly",
+    "tag": "Student",
+    "tagType": "New",
+    "features": [
+      "150+ student-friendly templates",
+      "ATS optimization tools",
+      "PDF and Word export",
+      "Basic cover letter builder",
+      "Student email verification required"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10473/10473372.png"
+  }
+]
