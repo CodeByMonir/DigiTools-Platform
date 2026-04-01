@@ -59,7 +59,7 @@ Users can switch between product view and cart view, add/remove items, and see r
 
 ## 📂 GitHub Repository
 
-👉 *[\[Add your repo link here\]](https://github.com/CodeByMonir/DigiTools-Platform)*
+👉 *https://github.com/CodeByMonir/DigiTools-Platform*
 
 ---
 
